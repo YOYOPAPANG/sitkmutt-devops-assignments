@@ -1,0 +1,10 @@
+Sep 10 09:17:02 cs-307383254258-default-default-bsgfm supervisord: tmux-agent 2021/09/10 09:17:02 kill tmux session failed with: exit status 1
+Sep 10 09:18:42 cs-307383254258-default-default-bsgfm supervisord: tmux-agent 2021/09/10 09:18:42 event:  "/var/config/tmux/deleted_tabs": WRITE
+Sep 10 09:18:42 cs-307383254258-default-default-bsgfm supervisord: tmux-agent 2021/09/10 09:18:42 parsed tab: main.Tab{Id:1323328067}
+Sep 10 09:18:42 cs-307383254258-default-default-bsgfm supervisord: tmux-agent 2021/09/10 09:18:42 kill tmux session failed with: exit status 1
+Sep 10 09:32:57 cs-307383254258-default-default-bsgfm supervisord: tmux-agent 2021/09/10 09:32:57 event:  "/var/config/tmux/deleted_tabs": WRITE
+Sep 10 09:32:57 cs-307383254258-default-default-bsgfm supervisord: tmux-agent 2021/09/10 09:32:57 parsed tab: main.Tab{Id:1323328067}
+Sep 10 09:32:57 cs-307383254258-default-default-bsgfm supervisord: tmux-agent 2021/09/10 09:32:57 kill tmux session failed with: exit status 1
+Sep 10 09:33:02 cs-307383254258-default-default-bsgfm supervisord: tmux-agent 2021/09/10 09:33:02 event:  "/var/config/tmux/deleted_tabs": WRITE
+Sep 10 09:33:02 cs-307383254258-default-default-bsgfm supervisord: tmux-agent 2021/09/10 09:33:02 parsed tab: main.Tab{Id:1323328067}
+Sep 10 09:33:02 cs-307383254258-default-default-bsgfm supervisord: tmux-agent 2021/09/10 09:33:02 kill tmux session failed with: exit status 1
